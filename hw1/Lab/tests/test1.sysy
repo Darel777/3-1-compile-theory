@@ -1,0 +1,10 @@
+int main()
+{
+    // line comment
+    /*
+        block comment
+    */
+    int n = ~0xFF;
+    int o = #0XFF;
+    int p = &0x10F;
+}
